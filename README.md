@@ -2,6 +2,8 @@
 
 A free graphical-abstract editor for scientific figures, in the spirit of BioRender. It runs in any modern browser or as a native Mac app, and works offline.
 
+**Open it now: [kratos1459.github.io/Abstracta](https://kratos1459.github.io/Abstracta/)** (no install, works on any computer)
+
 - **1,300+ science icons**: 42 original Abstracta icons (no credit needed) plus 1,295 open-licence icons from [Bioicons](https://bioicons.com), searchable by name and category. Every icon can be recoloured.
 - **Shapes, arrows and text**: boxes, panels, straight and curved arrows, two-way arrows, inhibition (⊣) lines, in-place text editing.
 - **Editing**: drag, resize, rotate, snap guides, align and distribute, layers, undo and redo, copy and paste, drop in your own images (docking poses, plots).
@@ -11,7 +13,7 @@ A free graphical-abstract editor for scientific figures, in the spirit of BioRen
 
 ## Use it in the browser
 
-Open `index.html` through any web server, or enable **GitHub Pages** for this repository (Settings → Pages → Deploy from branch → `main`, root). The editor loads `icons.json` beside it.
+The live site is **https://kratos1459.github.io/Abstracta/**, served by GitHub Pages from the `main` branch. Every push to `main` updates it within a minute or two. The editor loads `icons.json` beside it.
 
 To try it locally:
 
