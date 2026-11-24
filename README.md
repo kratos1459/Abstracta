@@ -4,13 +4,14 @@ A free graphical-abstract editor for scientific figures, in the spirit of BioRen
 
 **Open it now: [kratos1459.github.io/Abstracta](https://kratos1459.github.io/Abstracta/)** (no install, works on any computer)
 
-- **1,370+ science icons**: 77 original Abstracta icons (no credit needed) plus 1,295 open-licence icons from [Bioicons](https://bioicons.com), searchable by name and category. Every icon can be recoloured.
+- **1,400+ science icons**: 107 original Abstracta icons (no credit needed) plus 1,295 open-licence icons from [Bioicons](https://bioicons.com), searchable by name and category. Every icon can be recoloured.
 - **Immunology and vaccine design**: original icons for immune cells (B, T helper, cytotoxic T, plasma, memory, macrophage, dendritic, NK, neutrophil), antigen presentation (MHC I/II, TCR, TLR, immune synapse, epitopes) and vaccine platforms (mRNA-LNP, viral vector, subunit, inactivated, live attenuated, VLP, multi-epitope construct, adjuvant), plus response curves, immune simulation and plasmid cloning.
 - **Shapes, arrows and text**: boxes, panels, straight and curved arrows, two-way arrows, inhibition (⊣) lines, in-place text editing.
 - **Editing**: drag, resize, rotate, snap guides, align and distribute, layers, undo and redo, copy and paste, drop in your own images (docking poses, plots).
 - **Journal-ready export**: PNG and TIFF at 600 dpi (or any dpi) at a print width you set in cm, plus SVG for Illustrator or Inkscape. The dpi is written into the files.
 - **Automatic icon credits**: the app builds the credit line for any CC BY icons you used and saves it with every export.
-- **Templates**: a five-panel natural-product pipeline, an in silico multi-epitope vaccine design pipeline (reverse vaccinology), an immune-response flow, and a mechanism-of-action layout.
+- **Molecular dynamics and modelling**: original icons for the whole MD workflow — solvated system, water, periodic boundary, force-field terms, minimization, NVT/NPT, position restraints, production run, trajectory, clustering — plus analysis (RMSD, RMSF, Rg, SASA, H-bond, free energy landscape, PCA, cross-correlation matrix, MM-PBSA), binding pocket, protein cartoon, virtual screening, and computing (GPU, HPC cluster, terminal, structure database).
+- **Templates**: a natural-product pipeline, a molecular dynamics workflow, an in silico multi-epitope vaccine design pipeline (reverse vaccinology), an immune-response flow, and a mechanism-of-action layout.
 
 ## Use it in the browser
 
@@ -70,6 +71,6 @@ The script strips editor metadata and any scripts, inlines styles, namespaces id
 
 ## Licences
 
-- Code and the 77 Abstracta icons: MIT (see `LICENSE`).
+- Code and the 107 Abstracta icons: MIT (see `LICENSE`).
 - Bioicons icons keep their own licences (CC0, MIT, CC BY 3.0, CC BY 4.0). See `ICON_LICENSES.md`. Credit CC BY icons in your figure legend; the app writes that text for you.
 - Abstracta is an independent project and is not affiliated with BioRender.
